@@ -8,7 +8,8 @@ def using_unshift (bouroughs_in_nyc,name)
 
 end
 
-def using_pop (continents_one, string)
+def using_pop (array)
+  continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   antarctica_one = continents_one.pop
   p continents_one
 end
