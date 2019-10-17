@@ -9,7 +9,7 @@ def using_unshift (bouroughs_in_nyc,name)
 end
 
 def using_pop (array)
-  deleted_string = continents.pop
+  continents.pop
 end
 
 def pop_with_args(array)
