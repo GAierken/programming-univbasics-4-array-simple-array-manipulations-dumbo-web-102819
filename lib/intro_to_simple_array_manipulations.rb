@@ -43,7 +43,6 @@ def using_insert(list_of_programming_languages, new_array)
 end
 
 def using_uniq (haircuts)
-  haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   new_array=haircuts.uniq
 end
 
