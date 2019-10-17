@@ -19,7 +19,7 @@ def pop_with_args(dog_breeds, small_dogs)
   p dog_breeds
 end
 
-def using_shif(my_favorite_cities,im_so_over_this_city)
+def using_shift(my_favorite_cities,im_so_over_this_city)
   my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
   im_so_over_this_city=my_favorite_cities.shift
   p my_favorite_cities
