@@ -49,7 +49,7 @@ def using_delete (instructors,name)
 no_offense_steven = instructors.delete("Steven")
 end
 
-def using_delete_at(array,integer)
+def using_delete_at(famous_robots,integer)
   robot_delete=famous_robots.delete_at(2)
 
 end
